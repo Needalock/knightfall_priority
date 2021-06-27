@@ -21,4 +21,4 @@ jobs:
       - name: Package and release
         uses: BigWigsMods/packager@v1
         with:
-            args: -g classic
+            args: -g bcc
