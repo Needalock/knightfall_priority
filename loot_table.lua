@@ -1,17 +1,171 @@
 Run_loot_table = {
------Karazhan
-{["loot_id"] = "28509", ["loot_name"] = "Worgen Claw Necklace", ["prio"] = " Prio: Hunter, F Druid, Rogue, Enh Shaman",},
-{["loot_id"] = "28507", ["loot_name"] = "Handwraps of Flowing Thought", ["prio"] = " Prio: Warlock, > Mage Tank, Boomkin, Ele Shaman",},
-{["loot_id"] = "28508", ["loot_name"] = "Gloves of Saintly Blessings", ["prio"] = " Prio: H Priest",},
-{["loot_id"] = "28477", ["loot_name"] = "Harbinger Bands", ["prio"] = " Prio: Warlock, Mage, S Priest",},
-{["loot_id"] = "28504", ["loot_name"] = "Steelhawk Crossbow", ["prio"] = " Prio: Hunter",},
-{["loot_id"] = "28506", ["loot_name"] = "Gloves of Dexterous Manipulation", ["prio"] = " Prio: Feral DPS",},
-{["loot_id"] = "28453", ["loot_name"] = "Bracers of the White Stag", ["prio"] = " Prio: None",},
-{["loot_id"] = "28454", ["loot_name"] = "Stalker's War Bands", ["prio"] = " Prio: Enh Shaman, Hunter",},
-{["loot_id"] = "28503", ["loot_name"] = "Whirlwind Bracers", ["prio"] = " Prio: R Shaman",},
------ {["loot_id"] = "", ["loot_name"] = "", ["prio"] = " Prio: ",},
------
------High King Maulgar
+-- {["loot_id"] = "", ["loot_name"] = "", ["prio"] = " Prio: tbd",},
+--   Karazhan
+-- Attumen the Huntsman
+{["loot_id"] = "28509", ["loot_name"] = "Worgen Claw Necklace", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28507", ["loot_name"] = "Handwraps of Flowing Thought", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28508", ["loot_name"] = "Gloves of Saintly Blessings", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28477", ["loot_name"] = "Harbinger Bands", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28504", ["loot_name"] = "Steelhawk Crossbow", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28506", ["loot_name"] = "Gloves of Dexterous Manipulation", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28453", ["loot_name"] = "Bracers of the White Stag", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28454", ["loot_name"] = "Stalker's War Bands", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28503", ["loot_name"] = "Whirlwind Bracers", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28505", ["loot_name"] = "Gauntlets of Renewed Hope", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28502", ["loot_name"] = "Vambraces of Courage", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28510", ["loot_name"] = "Spectral Band of Innervation", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "30480", ["loot_name"] = "Fiery Warhorse's Reins", ["prio"] = " Prio: tbd",},
+-- Moroes
+{["loot_id"] = "28530", ["loot_name"] = "Brooch of Unquenchable Fury", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28529", ["loot_name"] = "Royal Cloak of Arathi Kings", ["prio"] = " Prio: D tbd",},
+{["loot_id"] = "28570", ["loot_name"] = "Shadow-Cloak of Dalaran", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28565", ["loot_name"] = "Nethershard Girdle", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28524", ["loot_name"] = "Emerald Ripper", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28545", ["loot_name"] = "Edgewalker Longboots", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28567", ["loot_name"] = "Belt of Gale Force", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28525", ["loot_name"] = "Signet of Unshakable Faith", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28569", ["loot_name"] = "Boots of Valiance", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28566", ["loot_name"] = "Crimson Girdle of the Indomitable", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28528", ["loot_name"] = "Moroes' Lucky Pocket Watch", ["prio"] = " Prio: tbd",},
+-- Maiden of Virtue
+{["loot_id"] = "28516", ["loot_name"] = "Barbed Choker of Discipline", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28517", ["loot_name"] = "Boots of Foretelling", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28511", ["loot_name"] = "Bands of Indwelling", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28515", ["loot_name"] = "Bands of Nefarious Deeds", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28521", ["loot_name"] = "Mitts of the Treemender", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28514", ["loot_name"] = "Bracers of Maliciousness", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28519", ["loot_name"] = "Gloves of Quickening", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28523", ["loot_name"] = "Totem of Healing Rains", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28520", ["loot_name"] = "Gloves of Centering", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28522", ["loot_name"] = "Shard of the Virtuous", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28518", ["loot_name"] = "Iron Gauntlets of the Maiden", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28512", ["loot_name"] = "Bracers of Justice", ["prio"] = " Prio: tbd",},
+-- Opera Event - Red Riding Hood
+{["loot_id"] = "28582", ["loot_name"] = "Red Riding Hood's Cloak", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28584", ["loot_name"] = "Big Bad Wolf's Paw", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28581", ["loot_name"] = "Wolfslayer Sniper Rifle", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28583", ["loot_name"] = "Big Bad Wolf's Head", ["prio"] = " Prio: tbd",},
+-- Opera Event - Romulo and Julianne
+{["loot_id"] = "28578", ["loot_name"] = "Masquerade Gown", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28572", ["loot_name"] = "Blade of the Unrequited", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28579", ["loot_name"] = "Romulo's Poison Vial", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28573", ["loot_name"] = "Despair", ["prio"] = " Prio: tbd",},
+-- Opera Event - Wizard of Oz
+{["loot_id"] = "28585", ["loot_name"] = "Ruby Slippers", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28586", ["loot_name"] = "Wicked Witch's Hat", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28587", ["loot_name"] = "Legacy", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28588", ["loot_name"] = "Blue Diamond Witchwand", ["prio"] = " Prio: tbd",},
+-- Opera Event - Shared Loot
+{["loot_id"] = "28594", ["loot_name"] = "Trial-Fire Trousers", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28591", ["loot_name"] = "Earthsoul Leggings", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28589", ["loot_name"] = "Beastmaw Pauldrons", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28593", ["loot_name"] = "Eternium Greathelm", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28590", ["loot_name"] = "Ribbon of Sacrifice", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28592", ["loot_name"] = "Libram of Souls Redeemed", ["prio"] = " Prio: tbd",},
+-- Curator
+{["loot_id"] = "29756", ["loot_name"] = "Gloves of the Fallen Hero", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "29757", ["loot_name"] = "Gloves of the Fallen Champion", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "29758", ["loot_name"] = "Gloves of the Fallen Defender", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28612", ["loot_name"] = "Pauldrons of the Solace-Giver", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28647", ["loot_name"] = "Forest Wind Shoulderpads", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28631", ["loot_name"] = "Dragon-Quake Shoulderguards", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28621", ["loot_name"] = "Wrynn Dynasty Greaves", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28649", ["loot_name"] = "Garona's Signet Ring", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28633", ["loot_name"] = "Staff of Infinite Mysteries", ["prio"] = " Prio: tbd",},
+-- Shade of Aran
+{["loot_id"] = "28674", ["loot_name"] = "Saberclaw Talisman", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28672", ["loot_name"] = "Drape of the Dark Reavers", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28663", ["loot_name"] = "Boots of the Incorrupt", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28670", ["loot_name"] = "Boots of the Infernal Coven", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28726", ["loot_name"] = "Mantle of the Mind Flayer", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28669", ["loot_name"] = "Rapscallion Boots", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28671", ["loot_name"] = "Steelspine Faceguard", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28728", ["loot_name"] = "Aran's Soothing Sapphire", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28666", ["loot_name"] = "Pauldrons of the Justice-Seeker", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28675", ["loot_name"] = "Shermanar Great-Ring", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28727", ["loot_name"] = "Pendant of the Violet Eye", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28673", ["loot_name"] = "Tirisfal Wand of Ascendancy", ["prio"] = " Prio: tbd",},
+-- Terrestian Illhoof
+{["loot_id"] = "28653", ["loot_name"] = "Shadowvine Cloak of Infusion", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28660", ["loot_name"] = "Gilded Thorium Cloak", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28652", ["loot_name"] = "Cincture of Will", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28654", ["loot_name"] = "Malefic Girdle", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28655", ["loot_name"] = "Cord of Nature's Sustenance", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28656", ["loot_name"] = "Girdle of the Prowler", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28657", ["loot_name"] = "Fool's Bane", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28662", ["loot_name"] = "Breastplate of the Lightbinder", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28661", ["loot_name"] = "Mender's Heart-Ring", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28658", ["loot_name"] = "Terestian's Stranglestaff", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28785", ["loot_name"] = "The Lightning Capacitor", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28659", ["loot_name"] = "Xavian Stiletto", ["prio"] = " Prio: tbd",},
+-- Prince Malchezaar
+{["loot_id"] = "28762", ["loot_name"] = "Adornment of Stolen Souls", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "29759", ["loot_name"] = "Helm of the Fallen Hero", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "29760", ["loot_name"] = "Helm of the Fallen Champion", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "29761", ["loot_name"] = "Helm of the Fallen Defender", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28772", ["loot_name"] = "Sunfury Bow of the Phoenix", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28764", ["loot_name"] = "Farstrider Wildercloak", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28765", ["loot_name"] = "Stainless Cloak of the Pure Hearted", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28766", ["loot_name"] = "Ruby Drape of the Mysticant", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28768", ["loot_name"] = "Malchazeen", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28770", ["loot_name"] = "Nathrezim Mindblade", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28767", ["loot_name"] = "The Decapitator", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28771", ["loot_name"] = "Light's Justice", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28757", ["loot_name"] = "Ring of a Thousand Marks", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28763", ["loot_name"] = "Jade Ring of the Everliving", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28773", ["loot_name"] = "Gorehowl", ["prio"] = " Prio: tbd",},
+-- Netherspite
+{["loot_id"] = "28731", ["loot_name"] = "Shining Chain of the Afterworld", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28744", ["loot_name"] = "Uni-Mind Headdress", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28742", ["loot_name"] = "Pantaloons of Repentance", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28732", ["loot_name"] = "Cowl of Defiance", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28741", ["loot_name"] = "Skulker's Greaves", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28735", ["loot_name"] = "Earthblood Chestguard", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28740", ["loot_name"] = "Rip-Flayer Leggings", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28734", ["loot_name"] = "Jewel of Infinite Possibilities", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28729", ["loot_name"] = "Spiteblade", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28743", ["loot_name"] = "Mantle of Abrahmis", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28733", ["loot_name"] = "Girdle of Truth", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28730", ["loot_name"] = "Mithril Band of the Unscarred", ["prio"] = " Prio: tbd",},
+-- Nightbane
+{["loot_id"] = "28609", ["loot_name"] = "Emberspur Talisman", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28602", ["loot_name"] = "Robe of the Elder Scribes", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28600", ["loot_name"] = "Stonebough Jerkin", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28601", ["loot_name"] = "Chestguard of the Conniver", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28599", ["loot_name"] = "Scaled Breastplate of Carnage", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28610", ["loot_name"] = "Ferocious Swift-Kickers", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28603", ["loot_name"] = "Talisman of Nightbane", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28597", ["loot_name"] = "Panzar'Thar Breastplate", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28608", ["loot_name"] = "Ironstriders of Urgency", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28606", ["loot_name"] = "Shield of Impenetrable Darkness", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28611", ["loot_name"] = "Dragonheart Flameshield", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28604", ["loot_name"] = "Nightstaff of the Everliving", ["prio"] = " Prio: tbd",},
+-- Chess Event
+{["loot_id"] = "28745", ["loot_name"] = "Mithril Chain of Heroism", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28756", ["loot_name"] = "Headdress of the High Potentate", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28752", ["loot_name"] = "Forestlord Striders", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28755", ["loot_name"] = "Bladed Shoulderpads of the Merciless", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28750", ["loot_name"] = "Girdle of Treachery", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28746", ["loot_name"] = "Fiend Slayer Boots", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28751", ["loot_name"] = "Heart-Flame Leggings", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28749", ["loot_name"] = "King's Defender", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28747", ["loot_name"] = "Battlescar Boots", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28748", ["loot_name"] = "Legplates of the Innocent", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28753", ["loot_name"] = "Ring of Recurrence", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "28754", ["loot_name"] = "Triptych Shield of the Ancients", ["prio"] = " Prio: tbd",},
+-- Trash
+{["loot_id"] = "30642", ["loot_name"] = "Drape of the Righteous", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "30666", ["loot_name"] = "Ritssyn's Lost Pendant", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "30667", ["loot_name"] = "Ring of Unrelenting Storms", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "30668", ["loot_name"] = "Grasp of the Dead", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "30673", ["loot_name"] = "Inferno Waist Cord", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "30644", ["loot_name"] = "Grips of Deftness", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "30674", ["loot_name"] = "Zierhut's Lost Treads", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "30643", ["loot_name"] = "Belt of the Tracker", ["prio"] = " Prio: tbd",},
+{["loot_id"] = "30641", ["loot_name"] = "Boots of Elusion", ["prio"] = " Prio: tbd",},
+
+--  Gruul's Lair
+-- High King Maulgar
 {["loot_id"] = "29764", ["loot_name"] = "Pauldrons of the Fallen Defender", ["prio"] = " Prio: None",},
 {["loot_id"] = "29763", ["loot_name"] = "Pauldrons of the Fallen Champion", ["prio"] = " Prio: None",},
 {["loot_id"] = "29762", ["loot_name"] = "Pauldrons of the Fallen Hero", ["prio"] = " Prio: Mage = Warlock > Hunter",},
@@ -38,7 +192,8 @@ Run_loot_table = {
 {["loot_id"] = "28825", ["loot_name"] = "Aldori Legacy Defender", ["prio"] = " Prio: Tanks",},
 {["loot_id"] = "28794", ["loot_name"] = "Axe of the Gronn Lords", ["prio"] = " Prio: 2H Melee DPS",},
 {["loot_id"] = "28826", ["loot_name"] = "Shuriken of Negation", ["prio"] = " Prio: 2H Melee DPS",},
------Magtheridon
+
+--  Magtheridon
 {["loot_id"] = "29753", ["loot_name"] = "Chestguard of the Fallen Defender", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "29755", ["loot_name"] = "Chestguard of the Fallen Hero", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "29754", ["loot_name"] = "Chestguard of the Fallen Champion", ["prio"] = " Prio: tbd",},
@@ -55,15 +210,14 @@ Run_loot_table = {
 {["loot_id"] = "28777", ["loot_name"] = "Cloak of the Pit Stalker", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "28783", ["loot_name"] = "Eredar Wand of Obliteration", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "28781", ["loot_name"] = "Karaborian Talisman", ["prio"] = " Prio: tbd",},
------
------
------SSC
------Thrashloot
+
+--  Serpentshrine Cavern
+-- Trash
 {["loot_id"] = "30021", ["loot_name"] = "Wildfury Greatstaff", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30027", ["loot_name"] = "Boots of Courage Unending", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30022", ["loot_name"] = "Pendant of the Perilous", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30620", ["loot_name"] = "Spyglass of the Hidden Fleet", ["prio"] = " Prio: tbd",},
------Hydross
+-- Hydross
 {["loot_id"] = "30629", ["loot_name"] = "Scarab of Displacement", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30047", ["loot_name"] = "Blackfathom Warbands", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30048", ["loot_name"] = "Brighthelm of Justice", ["prio"] = " Prio: tbd",},
@@ -77,7 +231,7 @@ Run_loot_table = {
 {["loot_id"] = "30054", ["loot_name"] = "Ranger-General's Chestguard", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30056", ["loot_name"] = "Robe of Hateful Echoes", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30053", ["loot_name"] = "Pauldrons of the Wardancer", ["prio"] = " Prio: tbd",},
------Lurker
+-- The Lurker Below
 {["loot_id"] = "30061", ["loot_name"] = "Ancestral Ring of Conquest", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30059", ["loot_name"] = "Choker of Animalistic Fury", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30065", ["loot_name"] = "Glowing Breastplate of Truth", ["prio"] = " Prio: tbd",},
@@ -90,7 +244,7 @@ Run_loot_table = {
 {["loot_id"] = "30066", ["loot_name"] = "Tempest-Strider Boots", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30067", ["loot_name"] = "Velvet Boots of the Guardian", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30057", ["loot_name"] = "Bracers of Eradication", ["prio"] = " Prio: tbd",},
------Leotheras
+-- Leotheras
 {["loot_id"] = "30240", ["loot_name"] = "Gloves of the Vanquished Defender", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30239", ["loot_name"] = "Gloves of the Vanquished Champion", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30241", ["loot_name"] = "Gloves of the Vanquished Hero", ["prio"] = " Prio: tbd",},
@@ -100,7 +254,7 @@ Run_loot_table = {
 {["loot_id"] = "30091", ["loot_name"] = "True-Aim Stalker Bands", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30627", ["loot_name"] = "Tsunami Talisman", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30096", ["loot_name"] = "Girdle of the Invulnerable", ["prio"] = " Prio: tbd",},
------Karathress
+-- Karathress
 {["loot_id"] = "30246", ["loot_name"] = "Leggings of the Vanquished Defender", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30245", ["loot_name"] = "Leggings of the Vanquished Champion", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30247", ["loot_name"] = "Leggings of the Vanquished Hero", ["prio"] = " Prio: tbd",},
@@ -110,7 +264,7 @@ Run_loot_table = {
 {["loot_id"] = "30100", ["loot_name"] = "Soul-Strider Boots", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30626", ["loot_name"] = "Sextant of Unstable Currents", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30090", ["loot_name"] = "World Breaker", ["prio"] = " Prio: tbd",},
------Morogrim
+-- Morogrim
 {["loot_id"] = "33058", ["loot_name"] = "Band of the Vigilant", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30098", ["loot_name"] = "Razor-Scale Battlecloak", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30081", ["loot_name"] = "Warboots of Obliteration", ["prio"] = " Prio: tbd",},
@@ -124,7 +278,7 @@ Run_loot_table = {
 {["loot_id"] = "30079", ["loot_name"] = "Illidari Shoulderpads", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30080", ["loot_name"] = "Luminescent Rod of the Naaru", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30008", ["loot_name"] = "Pendant of the Lost Ages", ["prio"] = " Prio: tbd",},
------Lady Vashj
+-- Lady Vashj
 {["loot_id"] = "30242", ["loot_name"] = "Helm of the Vanquished Champion", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30244", ["loot_name"] = "Helm of the Vanquished Hero", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30243", ["loot_name"] = "Helm of the Vanquished Defender", ["prio"] = " Prio: tbd",},
@@ -140,16 +294,16 @@ Run_loot_table = {
 {["loot_id"] = "30105", ["loot_name"] = "Serpent Spine Longbow", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30108", ["loot_name"] = "Lightfathom Scepter", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30621", ["loot_name"] = "Prism of Inner Calm", ["prio"] = " Prio: tbd",},
------
------The Eye
------Thrashloot
+
+--  The Eye
+-- Trash
 {["loot_id"] = "30030", ["loot_name"] = "Girdle of Fallen Stars", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30026", ["loot_name"] = "Bands of the Celestial Archer", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30029", ["loot_name"] = "Bark-Gloves of Ancient Wisdom", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30020", ["loot_name"] = "Fire-Cord of the Magus", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30024", ["loot_name"] = "Mantle of the Elven Kings", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30028", ["loot_name"] = "Seventh Ring of the Tirisfalen", ["prio"] = " Prio: tbd",},
------Void Reaver
+-- Void Reaver
 {["loot_id"] = "30248", ["loot_name"] = "Pauldrons of the Vanquished Champion", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30250", ["loot_name"] = "Pauldrons of the Vanquished Hero", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30249", ["loot_name"] = "Pauldrons of the Vanquished Defender", ["prio"] = " Prio: tbd",},
@@ -160,7 +314,7 @@ Run_loot_table = {
 {["loot_id"] = "30450", ["loot_name"] = "Warp-Spring Coil", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "29986", ["loot_name"] = "Cowl of the Grand Engineer", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "29985", ["loot_name"] = "Void Reaver Greaves", ["prio"] = " Prio: tbd",},
------Al'ar
+-- Al'ar
 {["loot_id"] = "29949", ["loot_name"] = "Arcanite Steam-Pistol", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "29922", ["loot_name"] = "Band of Al'ar", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "29921", ["loot_name"] = "Fire Crest Breastplate", ["prio"] = " Prio: tbd",},
@@ -174,7 +328,7 @@ Run_loot_table = {
 {["loot_id"] = "30448", ["loot_name"] = "Talon of Al'ar", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "29948", ["loot_name"] = "Claw of the Phoenix", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32944", ["loot_name"] = "Talon of the Phoenix", ["prio"] = " Prio: tbd",},
------Solarian
+-- Solarian
 {["loot_id"] = "29950", ["loot_name"] = "Greaves of the Bloodwarder", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "29981", ["loot_name"] = "Ethereum Life-Staff", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "29965", ["loot_name"] = "Girdle of the Righteous Path", ["prio"] = " Prio: tbd",},
@@ -188,7 +342,7 @@ Run_loot_table = {
 {["loot_id"] = "29972", ["loot_name"] = "Trousers of the Astromancer", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "29976", ["loot_name"] = "Worldstorm Gauntlets", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "29982", ["loot_name"] = "Wand of the Forgotten Star", ["prio"] = " Prio: tbd",},
------Kael'thas
+-- Kael'thas
 {["loot_id"] = "32405", ["loot_name"] = "Verdant Sphere", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30236", ["loot_name"] = "Chestguard of the Vanquished Champion", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30237", ["loot_name"] = "Chestguard of the Vanquished Defender", ["prio"] = " Prio: tbd",},
@@ -205,9 +359,9 @@ Run_loot_table = {
 {["loot_id"] = "29988", ["loot_name"] = "The Nexus Key", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "29993", ["loot_name"] = "Twinblade of the Phoenix", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "29998", ["loot_name"] = "Royal Gauntlets of Silvermoon", ["prio"] = " Prio: tbd",},
------
------Hyjal
------Thrashloot
+
+--  Hyjal
+-- Trash
 {["loot_id"] = "32589", ["loot_name"] = "Hellfire-Encased Pendant", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34010", ["loot_name"] = "Pepe's Shroud of Pacification", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32609", ["loot_name"] = "Boots of the Divine Light", ["prio"] = " Prio: tbd",},
@@ -217,7 +371,7 @@ Run_loot_table = {
 {["loot_id"] = "32590", ["loot_name"] = "Nethervoid Cloak", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32946", ["loot_name"] = "Claw of Molten Fury", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32945", ["loot_name"] = "Fist of Molten Fury", ["prio"] = " Prio: tbd",},
------Winterchill
+-- Winterchill
 {["loot_id"] = "30870", ["loot_name"] = "Cuffs of Devastation", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30866", ["loot_name"] = "Blood-Stained Pauldrons", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30871", ["loot_name"] = "Bracers of Martyrdom", ["prio"] = " Prio: tbd",},
@@ -230,7 +384,7 @@ Run_loot_table = {
 {["loot_id"] = "30865", ["loot_name"] = "Tracker's Blade", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30873", ["loot_name"] = "Stillwater Boots", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30869", ["loot_name"] = "Howling Wind Bracers", ["prio"] = " Prio: tbd",},
------Anetheron
+-- Anetheron
 {["loot_id"] = "30888", ["loot_name"] = "Anetheron's Noose", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30883", ["loot_name"] = "Pillar of Ferocity", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30882", ["loot_name"] = "Bastion of Light", ["prio"] = " Prio: tbd",},
@@ -243,7 +397,7 @@ Run_loot_table = {
 {["loot_id"] = "30887", ["loot_name"] = "Golden Links of Restoration", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30884", ["loot_name"] = "Hatefury Mantle", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30880", ["loot_name"] = "Quickstrider Moccasins", ["prio"] = " Prio: tbd",},
------Kaz'rogal
+-- Kaz'rogal
 {["loot_id"] = "30915", ["loot_name"] = "Belt of Seething Fury", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30891", ["loot_name"] = "Black Featherlight Boots", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30894", ["loot_name"] = "Blue Suede Shoes", ["prio"] = " Prio: tbd",},
@@ -256,7 +410,7 @@ Run_loot_table = {
 {["loot_id"] = "30892", ["loot_name"] = "Beast-Tamer's Shoulders", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30893", ["loot_name"] = "Sun-Touched Chain Leggings", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30914", ["loot_name"] = "Belt of the Crescent Moon", ["prio"] = " Prio: tbd",},
------Azgalor
+-- Azgalor
 {["loot_id"] = "31093", ["loot_name"] = "Gloves of the Forgotten Vanquisher", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "31092", ["loot_name"] = "Gloves of the Forgotten Conqueror", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "31094", ["loot_name"] = "Gloves of the Forgotten Protector", ["prio"] = " Prio: tbd",},
@@ -266,7 +420,7 @@ Run_loot_table = {
 {["loot_id"] = "30897", ["loot_name"] = "Girdle of Hope", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30896", ["loot_name"] = "Glory of the Defender", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30898", ["loot_name"] = "Shady Dealer's Pantaloons", ["prio"] = " Prio: tbd",},
------Archimonde
+-- Archimonde
 {["loot_id"] = "31096", ["loot_name"] = "Helm of the Forgotten Vanquisher", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "31095", ["loot_name"] = "Helm of the Forgotten Protector", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "31097", ["loot_name"] = "Helm of the Forgotten Conqueror", ["prio"] = " Prio: tbd",},
@@ -282,9 +436,9 @@ Run_loot_table = {
 {["loot_id"] = "30911", ["loot_name"] = "Scepter of Purification", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30910", ["loot_name"] = "Tempest of Chaos", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "30905", ["loot_name"] = "Midnight Chestguard", ["prio"] = " Prio: tbd",},
------
------Black Temple
------Thrashloot
+
+--  Black Temple
+-- Trash
 {["loot_id"] = "32526", ["loot_name"] = "Band of Devastation", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32527", ["loot_name"] = "Ring of Ancient Knowledge", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32528", ["loot_name"] = "Blessed Band of Karabor", ["prio"] = " Prio: tbd",},
@@ -294,7 +448,7 @@ Run_loot_table = {
 {["loot_id"] = "32943", ["loot_name"] = "Swiftsteel Bludgeon", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34011", ["loot_name"] = "Illidari Runeshield", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34012", ["loot_name"] = "Shroud of the Final Stand", ["prio"] = " Prio: tbd",},
------Naj'entus
+-- Naj'entus
 {["loot_id"] = "32234", ["loot_name"] = "Fists of Mukoa", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32240", ["loot_name"] = "Guise of the Tidal Lurker", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32248", ["loot_name"] = "Halberd of Desolation", ["prio"] = " Prio: tbd",},
@@ -309,7 +463,7 @@ Run_loot_table = {
 {["loot_id"] = "32243", ["loot_name"] = "Pearl Inlaid Boots", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32245", ["loot_name"] = "Tide-Stomper's Greaves", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32242", ["loot_name"] = "Boots of Oceanic Fury", ["prio"] = " Prio: tbd",},
------Supremus
+-- Supremus
 {["loot_id"] = "32261", ["loot_name"] = "Band of the Abyssal Lord", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32262", ["loot_name"] = "Syphon of the Nathrezim", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32251", ["loot_name"] = "Wraps of Precise Flight", ["prio"] = " Prio: tbd",},
@@ -322,7 +476,7 @@ Run_loot_table = {
 {["loot_id"] = "32253", ["loot_name"] = "Legionkiller", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32258", ["loot_name"] = "Naturalist's Preserving Cinch", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32259", ["loot_name"] = "Bands of the Coming Storm", ["prio"] = " Prio: tbd",},
------Shade of Akama
+-- Shade of Akama
 {["loot_id"] = "32513", ["loot_name"] = "Wristbands of Divine Influence", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32278", ["loot_name"] = "Grips of Silent Justice", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32266", ["loot_name"] = "Ring of Deceitful Intent", ["prio"] = " Prio: tbd",},
@@ -337,7 +491,7 @@ Run_loot_table = {
 {["loot_id"] = "32276", ["loot_name"] = "Flashfire Girdle", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32275", ["loot_name"] = "Spiritwalker Gauntlets", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32279", ["loot_name"] = "The Seeker's Wristguards", ["prio"] = " Prio: tbd",},
------Teron Gorefiend
+-- Teron Gorefiend
 {["loot_id"] = "32328", ["loot_name"] = "Botanist's Gloves of Growth", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32329", ["loot_name"] = "Cowl of Benevolence", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32348", ["loot_name"] = "Soul Cleaver", ["prio"] = " Prio: tbd",},
@@ -348,7 +502,7 @@ Run_loot_table = {
 {["loot_id"] = "32280", ["loot_name"] = "Gauntlets of Enforcement", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32327", ["loot_name"] = "Robe of the Shadow Council", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32323", ["loot_name"] = "Shadowmoon Destroyer's Drape", ["prio"] = " Prio: tbd",},
------Gurtogg
+-- Gurtogg
 {["loot_id"] = "32339", ["loot_name"] = "Belt of Primal Majesty", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32501", ["loot_name"] = "Shadowmoon Insignia", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32337", ["loot_name"] = "Shroud of Forgiveness", ["prio"] = " Prio: tbd",},
@@ -362,7 +516,7 @@ Run_loot_table = {
 {["loot_id"] = "32338", ["loot_name"] = "Blood-Cursed Shoulderpads", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32341", ["loot_name"] = "Leggings of Divine Retribution", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32342", ["loot_name"] = "Girdle of Mighty Resolve", ["prio"] = " Prio: tbd",},
------Reliquary
+-- Reliquary
 {["loot_id"] = "32345", ["loot_name"] = "Dreadboots of the Legion", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32350", ["loot_name"] = "Touch of Inspiration", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32353", ["loot_name"] = "Gloves of Unfailing Faith", ["prio"] = " Prio: tbd",},
@@ -376,7 +530,7 @@ Run_loot_table = {
 {["loot_id"] = "32362", ["loot_name"] = "Pendant of Titans", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32351", ["loot_name"] = "Elunite Empowered Bracers", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32352", ["loot_name"] = "Naturewarden's Treads", ["prio"] = " Prio: tbd",},
------Shahraz
+-- Shahraz
 {["loot_id"] = "31101", ["loot_name"] = "Pauldrons of the Forgotten Conqueror", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "31102", ["loot_name"] = "Pauldrons of the Forgotten Vanquisher", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "31103", ["loot_name"] = "Pauldrons of the Forgotten Protector", ["prio"] = " Prio: tbd",},
@@ -385,7 +539,7 @@ Run_loot_table = {
 {["loot_id"] = "32367", ["loot_name"] = "Leggings of Devastation", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32370", ["loot_name"] = "Nadina's Pendant of Purity", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32366", ["loot_name"] = "Shadowmaster's Boots", ["prio"] = " Prio: tbd",},
------Illidary Council
+-- Illidary Council
 {["loot_id"] = "31100", ["loot_name"] = "Leggings of the Forgotten Protector", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "31098", ["loot_name"] = "Leggings of the Forgotten Conqueror", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "31099", ["loot_name"] = "Leggings of the Forgotten Vanquisher", ["prio"] = " Prio: tbd",},
@@ -395,7 +549,7 @@ Run_loot_table = {
 {["loot_id"] = "32373", ["loot_name"] = "Helm of the Illidari Shatterer", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32505", ["loot_name"] = "Madness of the Betrayer", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32518", ["loot_name"] = "Veil of Turning Leaves", ["prio"] = " Prio: tbd",},
------Illidan
+-- Illidan
 {["loot_id"] = "32837", ["loot_name"] = "Warglaive of Azzinoth", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32838", ["loot_name"] = "Warglaive of Azzinoth", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "31089", ["loot_name"] = "Chestguard of the Forgotten Conqueror", ["prio"] = " Prio: tbd",},
@@ -413,9 +567,9 @@ Run_loot_table = {
 {["loot_id"] = "32524", ["loot_name"] = "Shroud of the Highborne", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32483", ["loot_name"] = "The Skull of Gul'dan", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "32497", ["loot_name"] = "Stormrage Signet Ring", ["prio"] = " Prio: tbd",},
------
------Sunwell Plateau
------Thrashloot
+
+--  Sunwell Plateau
+-- Trash
 {["loot_id"] = "35733", ["loot_name"] = "Ring of Harmonic Beauty", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34351", ["loot_name"] = "Tranquil Majesty Wraps", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34348", ["loot_name"] = "Wand of Cleansing Light", ["prio"] = " Prio: tbd",},
@@ -423,7 +577,7 @@ Run_loot_table = {
 {["loot_id"] = "34346", ["loot_name"] = "Mounting Vengeance", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34350", ["loot_name"] = "Gauntlets of the Ancient Shadowmoon", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34347", ["loot_name"] = "Wand of the Demonsoul", ["prio"] = " Prio: tbd",},
------Kalecgos
+-- Kalecgos
 {["loot_id"] = "34852", ["loot_name"] = "Bracers of the Forgotten Vanquisher", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34851", ["loot_name"] = "Bracers of the Forgotten Protector", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34848", ["loot_name"] = "Bracers of the Forgotten Conqueror", ["prio"] = " Prio: tbd",},
@@ -434,7 +588,7 @@ Run_loot_table = {
 {["loot_id"] = "34169", ["loot_name"] = "Breeches of Natural Aggression", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34165", ["loot_name"] = "Fang of Kalecgos", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34164", ["loot_name"] = "Dragonscale-Encrusted Longblade", ["prio"] = " Prio: tbd",},
------Brutallus
+-- Brutallus
 {["loot_id"] = "34853", ["loot_name"] = "Belt of the Forgotten Conqueror", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34854", ["loot_name"] = "Belt of the Forgotten Protector", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34855", ["loot_name"] = "Belt of the Forgotten Vanquisher", ["prio"] = " Prio: tbd",},
@@ -444,7 +598,7 @@ Run_loot_table = {
 {["loot_id"] = "34181", ["loot_name"] = "Leggings of Calamity", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34176", ["loot_name"] = "Reign of Misery", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34178", ["loot_name"] = "Collar of the Pit Lord", ["prio"] = " Prio: tbd",},
------Felmyst
+-- Felmyst
 {["loot_id"] = "34857", ["loot_name"] = "Boots of the Forgotten Protector", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34856", ["loot_name"] = "Boots of the Forgotten Conqueror", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34858", ["loot_name"] = "Boots of the Forgotten Vanquisher", ["prio"] = " Prio: tbd",},
@@ -454,7 +608,7 @@ Run_loot_table = {
 {["loot_id"] = "34352", ["loot_name"] = "Borderland Fortress Grips", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34182", ["loot_name"] = "Grand Magister's Staff of Torrents", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34188", ["loot_name"] = "Leggings of the Immortal Night", ["prio"] = " Prio: tbd",},
------Twins
+-- Twins
 {["loot_id"] = "35290", ["loot_name"] = "Sin'dorei Pendant of Conquest", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "35291", ["loot_name"] = "Sin'dorei Pendant of Salvation", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "35292", ["loot_name"] = "Sin'dorei Pendant of Triumph", ["prio"] = " Prio: tbd",},
@@ -476,7 +630,7 @@ Run_loot_table = {
 {["loot_id"] = "34197", ["loot_name"] = "Shiv of Exsanguination", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34205", ["loot_name"] = "Shroud of Redeemed Souls", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34198", ["loot_name"] = "Stanchion of Primal Instinct", ["prio"] = " Prio: tbd",},
------Mu'ru
+-- Mu'ru
 {["loot_id"] = "35283", ["loot_name"] = "Sin'dorei Band of Salvation", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "35282", ["loot_name"] = "Sin'dorei Band of Dominance", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "35284", ["loot_name"] = "Sin'dorei Band of Triumph", ["prio"] = " Prio: tbd",},
@@ -498,7 +652,7 @@ Run_loot_table = {
 {["loot_id"] = "34212", ["loot_name"] = "Sunglow Vest", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34228", ["loot_name"] = "Vicious Hawkstrider Hauberk", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34215", ["loot_name"] = "Warharness of Reckless Fury", ["prio"] = " Prio: tbd",},
------Kil'Jaeden
+-- Kil'Jaeden
 {["loot_id"] = "34334", ["loot_name"] = "Thori'dal, the Stars' Fury", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34344", ["loot_name"] = "Handguards of Defiled Worlds", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "34332", ["loot_name"] = "Cowl of Gul'dan", ["prio"] = " Prio: tbd",},

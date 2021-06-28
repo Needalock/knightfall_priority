@@ -1,7 +1,7 @@
 ## Interface: 20501
 ## Title: Knightfall Priority
 ## Author: Vaara@Remulos
-## Version: 1.0
+## Version: 1.0.1
 
 loot_table.lua
 main_functions.lua
