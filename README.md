@@ -1,6 +1,6 @@
 ## Introduction
 
-WoW Classic TBC Mod for showing loot Knightfall loot priority guidelines within the tooltip in game.
+WoW Classic TBC Mod for showing Knightfall loot priority guidelines within the tooltip in game.
 
 Updated (with permission and thanks) from [dyslectic-loot-priority](https://www.curseforge.com/wow/addons/dyslectic-loot-priority)
 
