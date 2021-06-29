@@ -2,6 +2,7 @@
 ## Title: Knightfall Priority
 ## Author: Vaara@Remulos
 ## Version: 1.0.1
+## X-Curse-Project-ID: 498290
 
 loot_table.lua
 main_functions.lua
