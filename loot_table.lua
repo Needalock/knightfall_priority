@@ -359,7 +359,7 @@ Run_loot_table = {
 {["loot_id"] = "29988", ["loot_name"] = "The Nexus Key", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "29993", ["loot_name"] = "Twinblade of the Phoenix", ["prio"] = " Prio: tbd",},
 {["loot_id"] = "29998", ["loot_name"] = "Royal Gauntlets of Silvermoon", ["prio"] = " Prio: tbd",},
-
+{["loot_id"] = "32458", ["loot_name"] = "Ashes of Al'ar", ["prio"] = " Prio: tbd",},
 --  Hyjal
 -- Trash
 {["loot_id"] = "32589", ["loot_name"] = "Hellfire-Encased Pendant", ["prio"] = " Prio: tbd",},
