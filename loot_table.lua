@@ -166,8 +166,8 @@ Run_loot_table = {
 
 --  Gruul's Lair
 -- High King Maulgar
-{["loot_id"] = "29764", ["loot_name"] = "Pauldrons of the Fallen Defender", ["prio"] = " Prio: P Pally > Ret Pally, Shaman > Rogue",},
-{["loot_id"] = "29763", ["loot_name"] = "Pauldrons of the Fallen Champion", ["prio"] = " Prio: T Druid > Priest, Warrior, Druid",},
+{["loot_id"] = "29764", ["loot_name"] = "Pauldrons of the Fallen Defender", ["prio"] = " Prio: T Druid > Priest, Warrior, Druid",},
+{["loot_id"] = "29763", ["loot_name"] = "Pauldrons of the Fallen Champion", ["prio"] = " Prio: P Pally > Ret Pally, Shaman > Rogue",},
 {["loot_id"] = "29762", ["loot_name"] = "Pauldrons of the Fallen Hero", ["prio"] = " Prio: Mage = Warlock > Hunter",},
 {["loot_id"] = "28801", ["loot_name"] = "Maulgar's Warhelm", ["prio"] = " Prio: Enh Shammy, Ret Pally",},
 {["loot_id"] = "28795", ["loot_name"] = "Bladespire Warbands", ["prio"] = " Prio: Plate DPS",},
@@ -194,9 +194,9 @@ Run_loot_table = {
 {["loot_id"] = "28826", ["loot_name"] = "Shuriken of Negation", ["prio"] = " Prio: Prot Warrior",},
 
 --  Magtheridon
-{["loot_id"] = "29753", ["loot_name"] = "Chestguard of the Fallen Defender", ["prio"] = " Prio: Warrior = Priest = Druid",},
+{["loot_id"] = "29753", ["loot_name"] = "Chestguard of the Fallen Defender", ["prio"] = " Prio: T Druid > Warrior, Priest, Druid",},
 {["loot_id"] = "29755", ["loot_name"] = "Chestguard of the Fallen Hero", ["prio"] = " Prio: Warlock > Mage > Hunter",},
-{["loot_id"] = "29754", ["loot_name"] = "Chestguard of the Fallen Champion", ["prio"] = " Prio: Pally > Shaman = Rogue ??",},
+{["loot_id"] = "29754", ["loot_name"] = "Chestguard of the Fallen Champion", ["prio"] = " Prio: P Pally > Pally, Shaman, Rogue",},
 {["loot_id"] = "32385", ["loot_name"] = "Magtheridon's Head", ["prio"] = " Prio: Equal",},
 {["loot_id"] = "29458", ["loot_name"] = "Aegis of the Vindicator", ["prio"] = " Prio: R Shaman, H Pally",},
 {["loot_id"] = "28782", ["loot_name"] = "Crystalheart Pulse-Staff", ["prio"] = " Prio: R Shaman",},
