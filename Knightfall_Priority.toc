@@ -1,4 +1,4 @@
-## Interface: 20501
+## Interface: 20502
 ## Title: Knightfall Priority
 ## Author: Vaara@Remulos
 ## Version: 1.0.1
