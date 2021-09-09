@@ -204,7 +204,7 @@ Run_loot_table = {
 {["loot_id"] = "28779", ["loot_name"] = "Girdle of the Endless Pit", ["prio"] = " Prio: Plate DPS",},
 {["loot_id"] = "28774", ["loot_name"] = "Glaive of the Pit", ["prio"] = " Prio: 2H Melee DPS",},
 {["loot_id"] = "28776", ["loot_name"] = "Liar's Tongue Gloves", ["prio"] = " Prio: Resist T Druid > Physical DPS",},
-{["loot_id"] = "28780", ["loot_name"] = "Soul-Eater's Handwraps", ["prio"] = " Prio: Caster DPS",},
+{["loot_id"] = "28780", ["loot_name"] = "Soul-Eater's Handwraps", ["prio"] = " Prio: Ele Shaman > Caster DPS",},
 {["loot_id"] = "28778", ["loot_name"] = "Terror Pit Girdle", ["prio"] = " Prio: Physical Mana DPS / DE",},
 {["loot_id"] = "28775", ["loot_name"] = "Thundering Greathelm", ["prio"] = " Prio: Plate DPS",},
 {["loot_id"] = "28777", ["loot_name"] = "Cloak of the Pit Stalker", ["prio"] = " Prio: Physical DPS",},
