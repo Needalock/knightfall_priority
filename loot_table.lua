@@ -29,7 +29,7 @@ Run_loot_table = {
 {["loot_id"] = "28528", ["loot_name"] = "Moroes' Lucky Pocket Watch", ["prio"] = " Prio: T Druid > Tanks",},
 -- Maiden of Virtue
 {["loot_id"] = "28516", ["loot_name"] = "Barbed Choker of Discipline", ["prio"] = " Prio: Tanks",},
-{["loot_id"] = "28517", ["loot_name"] = "Boots of Foretelling", ["prio"] = " Prio: Caster DPS (except S Priest)",},
+{["loot_id"] = "28517", ["loot_name"] = "Boots of Foretelling", ["prio"] = " Prio: Caster DPS (except S Priest) (Not if you have Ruby Slippers)",},
 {["loot_id"] = "28511", ["loot_name"] = "Bands of Indwelling", ["prio"] = " Prio: H Priest, R Druid",},
 {["loot_id"] = "28515", ["loot_name"] = "Bands of Nefarious Deeds", ["prio"] = " Prio: Equal",},
 {["loot_id"] = "28521", ["loot_name"] = "Mitts of the Treemender", ["prio"] = " Prio: R Druid",},
@@ -51,7 +51,7 @@ Run_loot_table = {
 {["loot_id"] = "28579", ["loot_name"] = "Romulo's Poison Vial", ["prio"] = " Prio: Tanks = Physical Dps (not Pally tanks)",},
 {["loot_id"] = "28573", ["loot_name"] = "Despair", ["prio"] = " Prio: Equal",},
 -- Opera Event - Wizard of Oz
-{["loot_id"] = "28585", ["loot_name"] = "Ruby Slippers", ["prio"] = " Prio: Caster DPS. Not if you have Boots of Foretelling",},
+{["loot_id"] = "28585", ["loot_name"] = "Ruby Slippers", ["prio"] = " Prio: Caster DPS (Not if you have Boots of Foretelling)",},
 {["loot_id"] = "28586", ["loot_name"] = "Wicked Witch's Hat", ["prio"] = " Prio: Caster DPS (Shard for cosmetic use)",},
 {["loot_id"] = "28587", ["loot_name"] = "Legacy", ["prio"] = " Prio: Hunters",},
 {["loot_id"] = "28588", ["loot_name"] = "Blue Diamond Witchwand", ["prio"] = " Prio: Equal",},
